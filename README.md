@@ -276,7 +276,9 @@ The project transforms customer, sales, and operational data into meaningful ins
 
 **Dhruvi Solanki**
 
-IMBA Student | Business Analytics & AI Enthusiast
+IMBA Student | Aspiring Business Professional | Exploring Finance, Marketing & HR
+
+Passionate about learning through real-world projects, internships, and hands-on experiences while building a versatile foundation across business functions.
 
 ## Dashboard Preview
 
