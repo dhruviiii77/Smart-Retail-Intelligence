@@ -277,3 +277,7 @@ The project transforms customer, sales, and operational data into meaningful ins
 **Dhruvi Solanki**
 
 IMBA Student | Business Analytics & AI Enthusiast
+
+## Dashboard Preview
+
+![Smart Retail Intelligence Dashboard](dashboard_preview.png)
