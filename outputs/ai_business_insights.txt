@@ -1,0 +1,18 @@
+SMART RETAIL INTELLIGENCE
+=========================
+
+Demand Status: LOW DEMAND
+High Demand Probability: 38.00%
+
+Total Revenue: ₹115000.00
+Total Units Sold: 80
+Highest Revenue Category: Electronics
+Best-Selling Category: Grocery
+Peak Revenue Hour: 19
+
+AI BUSINESS RECOMMENDATIONS
+---------------------------
+1. Maintain normal inventory levels because demand is predicted to be lower.
+2. Prioritize Electronics because it generates the highest revenue.
+3. Monitor Grocery inventory because it has the highest unit sales.
+4. Focus promotional planning around hour 19, which currently generates the highest revenue.
